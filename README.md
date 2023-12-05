@@ -1,3 +1,3 @@
-# JS Portfolio Website
+# See Live
 
 [🔗Live Demo🔗](https://yellow-meadow-03c4af710.4.azurestaticapps.net/)
